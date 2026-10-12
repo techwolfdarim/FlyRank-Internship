@@ -1,1 +1,2 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://github.com/techwolfdarim/FlyRank-Internship/blob/main/01_first_look_and_discovery.ipynb
+https://github.com/techwolfdarim/FlyRank-Internship/blob/main/02_your_first_readable_model.ipynbPASTE-YOUR-DEPLOYED-PAPER-URL-HERE
